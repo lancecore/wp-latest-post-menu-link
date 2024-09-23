@@ -10,7 +10,7 @@ For example, if you have a category with the URL `https://example.com/category/m
 
 ## Installation
 
-1. Download the this repository.
+1. Download this repository.
 2. Copy the `latest-post-menu-link` folder to the `wp-content/plugins` directory in your WordPress installation.
 3. Activate the plugin in the WordPress admin dashboard.
 4. Add a new menu item to your WordPress site.
