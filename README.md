@@ -14,5 +14,5 @@ For example, if you have a category with the URL `https://example.com/category/m
 2. Copy the `latest-post-menu-link` folder to the `wp-content/plugins` directory in your WordPress installation.
 3. Activate the plugin in the WordPress admin dashboard.
 4. Add a new menu item to your WordPress site.
-5. Select "Latest Posts" from the menu item dropdown.
+5. Select "Latest Post Link" from the menu item dropdown.
 6. Save the menu.
